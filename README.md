@@ -20,26 +20,26 @@ python github_trending.py
 # Вывод скрипта
 ``` bash
 
-Ссылка: https://github.com/wangshub/Douyin-Bot, звезды: 2063, открытые задачи:15 
-Ссылка: https://github.com/googlesamples/android-sunflower, звезды: 922, открытые задачи:5 
-Ссылка: https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks, звезды: 725, открытые задачи:0 
-Ссылка: https://github.com/egoist/saber.js, звезды: 638, открытые задачи:4 
-Ссылка: https://github.com/naturaln0va/VisualActivityViewController, звезды: 445, открытые задачи:0 
-Ссылка: https://github.com/lucperkins/colossus, звезды: 442, открытые задачи:1 
-Ссылка: https://github.com/Cryptogenic/PS4-5.05-Kernel-Exploit, звезды: 424, открытые задачи:1 
-Ссылка: https://github.com/c0ny1/upload-labs, звезды: 389, открытые задачи:1 
-Ссылка: https://github.com/higgsfield/RL-Adventure-2, звезды: 297, открытые задачи:0 
-Ссылка: https://github.com/yandex/odyssey, звезды: 262, открытые задачи:4 
-Ссылка: https://github.com/dukebarman/awesome-radare2, звезды: 247, открытые задачи:0 
-Ссылка: https://github.com/yoshiori/manager-readme, звезды: 218, открытые задачи:0 
-Ссылка: https://github.com/vipshop/vjtools, звезды: 198, открытые задачи:5 
-Ссылка: https://github.com/smooth-code/fraql, звезды: 197, открытые задачи:0 
-Ссылка: https://github.com/spatie/typed, звезды: 190, открытые задачи:0 
-Ссылка: https://github.com/fahad19/proppy, звезды: 156, открытые задачи:2 
-Ссылка: https://github.com/vanniktech/RxRiddles, звезды: 155, открытые задачи:2 
-Ссылка: https://github.com/melanieseltzer/es6-all-the-things, звезды: 146, открытые задачи:3 
-Ссылка: https://github.com/skelsec/pypykatz, звезды: 143, открытые задачи:0 
-Ссылка: https://github.com/muesli/kmeans, звезды: 142, открытые задачи:1 
+Ссылка: звезды: 2063, открытые задачи:15 
+Ссылка: звезды: 922, открытые задачи:5 
+Ссылка: звезды: 725, открытые задачи:0 
+Ссылка: звезды: 638, открытые задачи:4 
+Ссылка: звезды: 445, открытые задачи:0 
+Ссылка: звезды: 442, открытые задачи:1 
+Ссылка: звезды: 424, открытые задачи:1 
+Ссылка: звезды: 389, открытые задачи:1 
+Ссылка: звезды: 297, открытые задачи:0 
+Ссылка: звезды: 262, открытые задачи:4 
+Ссылка: звезды: 247, открытые задачи:0 
+Ссылка: звезды: 218, открытые задачи:0 
+Ссылка: звезды: 198, открытые задачи:5 
+Ссылка: звезды: 197, открытые задачи:0 
+Ссылка: звезды: 190, открытые задачи:0 
+Ссылка: звезды: 156, открытые задачи:2 
+Ссылка: звезды: 155, открытые задачи:2 
+Ссылка: звезды: 146, открытые задачи:3 
+Ссылка: звезды: 143, открытые задачи:0 
+Ссылка: звезды: 142, открытые задачи:1 
 
 ```
 
