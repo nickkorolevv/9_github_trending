@@ -17,7 +17,7 @@ def get_trending_repositories(top_size, days_number):
 
 def print_top_reps(top_reps):
     for rep in top_reps:
-        print("URL: {}, звезды: {}, открытые задачи:{} ".format(
+        print("Ссылка: {}, звезды: {}, открытые задачи:{} ".format(
             rep["html_url"],
             rep["stargazers_count"],
             rep["open_issues_count"])
