@@ -20,26 +20,26 @@ python github_trending.py
 # Вывод скрипта
 ``` bash
 
-URL: https://github.com/wangshub/Douyin-Bot, количество звезд: 2060, количество открытых задач:15 
-URL: https://github.com/googlesamples/android-sunflower, количество звезд: 919, количество открытых задач:5 
-URL: https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks, количество звезд: 723, количество открытых задач:0 
-URL: https://github.com/egoist/saber.js, количество звезд: 638, количество открытых задач:4 
-URL: https://github.com/naturaln0va/VisualActivityViewController, количество звезд: 445, количество открытых задач:0 
-URL: https://github.com/lucperkins/colossus, количество звезд: 437, количество открытых задач:1 
-URL: https://github.com/Cryptogenic/PS4-5.05-Kernel-Exploit, количество звезд: 423, количество открытых задач:1 
-URL: https://github.com/c0ny1/upload-labs, количество звезд: 388, количество открытых задач:1 
-URL: https://github.com/higgsfield/RL-Adventure-2, количество звезд: 297, количество открытых задач:0 
-URL: https://github.com/dukebarman/awesome-radare2, количество звезд: 246, количество открытых задач:0 
-URL: https://github.com/yandex/odyssey, количество звезд: 241, количество открытых задач:3 
-URL: https://github.com/yoshiori/manager-readme, количество звезд: 218, количество открытых задач:0 
-URL: https://github.com/vipshop/vjtools, количество звезд: 197, количество открытых задач:5 
-URL: https://github.com/smooth-code/fraql, количество звезд: 197, количество открытых задач:0 
-URL: https://github.com/spatie/typed, количество звезд: 190, количество открытых задач:0 
-URL: https://github.com/vanniktech/RxRiddles, количество звезд: 154, количество открытых задач:2 
-URL: https://github.com/fahad19/proppy, количество звезд: 154, количество открытых задач:2 
-URL: https://github.com/melanieseltzer/es6-all-the-things, количество звезд: 146, количество открытых задач:3 
-URL: https://github.com/skelsec/pypykatz, количество звезд: 143, количество открытых задач:0 
-URL: https://github.com/muesli/kmeans, количество звезд: 142, количество открытых задач:1 
+Ссылка: https://github.com/wangshub/Douyin-Bot, звезды: 2063, открытые задачи:15 
+Ссылка: https://github.com/googlesamples/android-sunflower, звезды: 922, открытые задачи:5 
+Ссылка: https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks, звезды: 725, открытые задачи:0 
+Ссылка: https://github.com/egoist/saber.js, звезды: 638, открытые задачи:4 
+Ссылка: https://github.com/naturaln0va/VisualActivityViewController, звезды: 445, открытые задачи:0 
+Ссылка: https://github.com/lucperkins/colossus, звезды: 442, открытые задачи:1 
+Ссылка: https://github.com/Cryptogenic/PS4-5.05-Kernel-Exploit, звезды: 424, открытые задачи:1 
+Ссылка: https://github.com/c0ny1/upload-labs, звезды: 389, открытые задачи:1 
+Ссылка: https://github.com/higgsfield/RL-Adventure-2, звезды: 297, открытые задачи:0 
+Ссылка: https://github.com/yandex/odyssey, звезды: 262, открытые задачи:4 
+Ссылка: https://github.com/dukebarman/awesome-radare2, звезды: 247, открытые задачи:0 
+Ссылка: https://github.com/yoshiori/manager-readme, звезды: 218, открытые задачи:0 
+Ссылка: https://github.com/vipshop/vjtools, звезды: 198, открытые задачи:5 
+Ссылка: https://github.com/smooth-code/fraql, звезды: 197, открытые задачи:0 
+Ссылка: https://github.com/spatie/typed, звезды: 190, открытые задачи:0 
+Ссылка: https://github.com/fahad19/proppy, звезды: 156, открытые задачи:2 
+Ссылка: https://github.com/vanniktech/RxRiddles, звезды: 155, открытые задачи:2 
+Ссылка: https://github.com/melanieseltzer/es6-all-the-things, звезды: 146, открытые задачи:3 
+Ссылка: https://github.com/skelsec/pypykatz, звезды: 143, открытые задачи:0 
+Ссылка: https://github.com/muesli/kmeans, звезды: 142, открытые задачи:1 
 
 ```
 
