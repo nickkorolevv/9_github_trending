@@ -3,14 +3,14 @@ import datetime
 from collections import defaultdict
 
 
-def date_number_of_days_ago(days_number):
-    return datetime.date.today() - datetime.timedelta(days=days_number)
+def get_date_number_of_days_ago(date):
+    return datetime.date.today() - datetime.timedelta(days=date)
 
 
-def get_trending_repositories(top_size, days_number):
+def get_trending_repositories(top_size, date):
     url = "https://api.github.com/search/repositories"
-    date = "{}{}".format("created:>=", days_number)
-    parameters = {'q': date, 'sort': 'stars', 'order': 'desc'}
+    formated_date = "{}{}".format("created:>=", date)
+    parameters = {'q': formated_date, 'sort': 'stars', 'order': 'desc'}
     response_from_github = requests.get(url, params=parameters).json()
     top_repos = response_from_github["items"][:top_size]
     return top_repos
@@ -43,9 +43,9 @@ def print_top_repos(top_repos_with_open_issues):
 
 
 if __name__ == "__main__":
-    days_number = 7
+    date = 7
     number_of_top_repos = 20
-    days = date_number_of_days_ago(days_number)
-    top_repos = get_trending_repositories(number_of_top_repos, days)
+    last_date = get_date_number_of_days_ago(date)
+    top_repos = get_trending_repositories(number_of_top_repos, last_date)
     top_repos_with_open_issues = get_top_repos_with_issues(top_repos)
     print_top_repos(top_repos_with_open_issues)
