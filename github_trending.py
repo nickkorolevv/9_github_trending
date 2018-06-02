@@ -12,11 +12,11 @@ def get_trending_repositories(top_size, date):
     parameters = {'q': formated_date, 'sort': 'stars', 'order': 'desc'}
     decoded_json = requests.get(url, params=parameters).json()
     top_repos = decoded_json["items"][:top_size]
-    for i in top_repos:
-        yield i
+    for repo in top_repos:
+        yield repo
 
 
-def get_issues(top_repos):
+def get_repos_and_issues(top_repos):
     for rep in top_repos:
         issues_url = (rep["issues_url"].rstrip("{/number}"))
         parameters = {"state": "open"}
@@ -25,8 +25,8 @@ def get_issues(top_repos):
         yield issues, rep
 
 
-def print_top_repos(open_issues):
-    for issues, repo in open_issues:
+def print_top_repos(repos_and_issues):
+    for issues, repo in repos_and_issues:
         print(
             "Ссылка: {}, звезды: {}, открытые вопросы: {}".format(
                 repo["html_url"],
@@ -40,5 +40,5 @@ if __name__ == "__main__":
     number_of_top_repos = 20
     last_date = get_date_number_of_days_ago(date)
     top_repos = get_trending_repositories(number_of_top_repos, last_date)
-    open_issues = get_issues(top_repos)
-    print_top_repos(open_issues)
+    repos_and_issues = get_repos_and_issues(top_repos)
+    print_top_repos(repos_and_issues)
